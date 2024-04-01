@@ -1,10 +1,3 @@
-/*Iliya Klishin
- *Dr. Steinberg
- *COP 3330 Spring 2022
- *Programming Assignment 2
- */
- 
- 
  import java.util.Arrays;
  
   
